@@ -2,6 +2,10 @@ Personal Portfolio Website
 
 Responsive portfolio website designed to showcase development projects and technical skills.
 
+## Preview
+
+![Html-CSS-portfolio screenshot](portfolio-screenshot.png)
+
 Features
 
 - Responsive layout
